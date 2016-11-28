@@ -11,7 +11,7 @@ read through the quick-setup [here](http://docs.nativescript.org/start/quick-set
 
 To create a new NativeScript project using this template you'll need to use the NativeScript CLI with the `--template` option.
 
-* `tns create my-app-name --template tns-template-ng-bw`
+* `tns create my-app-name --template tns-template-brightwork-ng`
 * `cd my-app-name`
 * `tns platform add ios` for IOS or `tns platform add android` for Android
 
