@@ -1,0 +1,7 @@
+.bw*
+.tmp/
+.tscache
+platforms/
+node_modules/
+typings/
+lib/
