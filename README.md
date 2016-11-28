@@ -7,19 +7,15 @@ Telerik NativeScript template using [Angular 2](angular.io) for the frontend and
 ## Getting Started
 
 Before using this template you will need to setup your system to run NativeScript.  It is recommended you 
-read through the quick-setup [here](http://docs.nativescript.org/start/quick-setup) and to install the [NativeScript CLI](https://github.com/NativeScript/nativescript-cli)
-
-### New Project
+read through the quick-setup [here](http://docs.nativescript.org/start/quick-setup) and to install the [NativeScript CLI](https://github.com/NativeScript/nativescript-cli).
 
 To create a new NativeScript project using this template you'll need to use the NativeScript CLI with the `--template` option.
 
-`tns create my-app-name --template tns-template-ng-bw`
-
-###  Add Platforms
-
+* `tns create my-app-name --template tns-template-ng-bw`
+* `cd my-app-name`
 * `tns platform add ios` for IOS or `tns platform add android` for Android
 
-#### Initial Brightwork Setup
+### BrightWork Setup
 
 Sign up if you haven't already at [http://www.brightwork.io/](http://www.brightwork.io/). It is also recommend that you read through the [Getting Started](http://www.brightwork.io/#/docs/main/gettingstarted) docs.
 
@@ -27,11 +23,6 @@ Sign up if you haven't already at [http://www.brightwork.io/](http://www.brightw
 * `bw login` - Enter your Brightwork username and password
 * `bw configure` - Setup your API endpoint, default is "http://api.brightwork.io".
   * `bw info` - To verify your configuration.
-
-#### Project Setup
-
-Run this from your project root.
-
 * `bw init` - To create your app manifest.  Be sure to update the `manifest.yml` file with your app name and models.
 * `bw push` - To deploy your app.
 * `bw list` - To view your deployed apps and to retrieve your API key.
