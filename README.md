@@ -1,5 +1,9 @@
 # NativeScript Template with Angular 2 and BrightWork
 
+[![Build Status](https://travis-ci.org/sturdynut/tns-template-brightwork-ng.svg?branch=master)](https://travis-ci.org/sturdynut/tns-template-brightwork-ng) 
+[![Dependency Status](https://david-dm.org/sturdynut/tns-template-brightwork-ng.svg)](https://david-dm.org/sturdynut/tns-template-brightwork-ng) 
+[![devDependency Status](https://david-dm.org/sturdynut/tns-template-brightwork-ng/dev-status.png)](https://david-dm.org/sturdynut/tns-template-brightwork-ng?type=dev)
+
 Telerik NativeScript template using [Angular 2](angular.io) for the frontend and [BrightWork](http://www.brightwork.io/) as the backend.
 
 [![nativescript-ng-bw-logo.png](https://s20.postimg.org/cu4arjfxp/nativescript_ng_bw_logo.png)](https://postimg.org/image/ntpi356cp/)

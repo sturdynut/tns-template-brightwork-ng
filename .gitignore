@@ -5,3 +5,4 @@ platforms/
 node_modules/
 typings/
 lib/
+.vscode
