@@ -1,6 +1,5 @@
 # NativeScript Template with Angular 2 and BrightWork
 
-[![Build Status](https://travis-ci.org/sturdynut/tns-template-brightwork-ng.svg?branch=master)](https://travis-ci.org/sturdynut/tns-template-brightwork-ng) 
 [![Dependency Status](https://david-dm.org/sturdynut/tns-template-brightwork-ng.svg)](https://david-dm.org/sturdynut/tns-template-brightwork-ng) 
 [![devDependency Status](https://david-dm.org/sturdynut/tns-template-brightwork-ng/dev-status.png)](https://david-dm.org/sturdynut/tns-template-brightwork-ng?type=dev)
 
